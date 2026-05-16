@@ -1,15 +1,23 @@
-<style>
-	body {
+
+body {
 	background-color: lightblue;
-	}
+}
 
-	h1 {
-	color: white;
-	text-align: center;
-	}
-
-	p {
+p {
 	font-family: verdana;
 	font-size: 20px;
-	}
-</style>
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px
+}
+
+h3 {
+	font-size: 22px
+}
+
+
+
+
